@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584547666641",
+    "project_id": "i-dont-remember-a9ca6",
+    "storage_bucket": "i-dont-remember-a9ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584547666641:android:aed64deca493893d3753f0",
+        "android_client_info": {
+          "package_name": "it.mrpio.i_dont_remember"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJgIR3zcsxdwsFaN7EsrlNySh4mWN3lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
